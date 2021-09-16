@@ -11,5 +11,6 @@ int main(){
     for(string x: list){
         cout << x << endl;
     }
+    cout<<"Ended" << endl;
     return 0;
 }
